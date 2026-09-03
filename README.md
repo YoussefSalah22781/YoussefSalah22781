@@ -1,77 +1,63 @@
-#
+# Youssef Salah
 
 <img src="./banner.png.jpeg" alt="Youssef Salah - SAP ABAP Developer">
 
-I'm Youssef Salah, a **SAP ABAP Developer** passionate about building
-efficient, reliable, and business-oriented SAP solutions.
+### SAP ABAP Developer
 
-I'm focused on SAP development, ABAP programming, and understanding
-business processes to create solutions that deliver real business value.
+I'm Youssef Salah, a SAP ABAP Developer focused on developing reliable,
+efficient, and business-oriented solutions using SAP technologies.
 
-I have a strong interest in problem solving, continuous learning,
-and developing high-quality SAP applications.
+My interests include ABAP development, SAP S/4HANA, business process
+integration, and solving technical problems through clean and maintainable code.
 
-## 🚀 TECH STACK
+---
 
-### SAP / ABAP
+## Skills
 
-- SAP ABAP
-- ABAP Reports
-- Internal Tables
-- Data Dictionary
-- Open SQL
-- Modularization
-- ALV Reports
-- Debugging
-- SAP S/4HANA
-- SAP Fiori / SAPUI5
+**SAP Development**
 
-### SAP Functional Knowledge
+`ABAP` · `SAP S/4HANA` · `ABAP Reports` · `ALV` · `Open SQL` · `Internal Tables`  
+`ABAP Dictionary` · `Modularization` · `Debugging` · `Eclipse / ADT` · `SAP GUI`
 
-- Financial Accounting (FI)
-- Management Accounting (CO)
-- Materials Management (MM)
-- Procurement / Source-to-Pay
-- SAP SuccessFactors
+**SAP Functional Knowledge**
 
-### Tools & Technologies
+`FI` · `CO` · `MM` · `Procurement` · `Source-to-Pay` · `SuccessFactors`
 
-- Git
-- GitHub
-- SQL
-- REST APIs
-- Eclipse / ADT
-- SAP GUI
+**Tools & Technologies**
 
-## 💡 WHAT I DO
+`Git` · `GitHub` · `SQL` · `REST APIs` · `SAP Fiori` · `SAPUI5`
 
-- Develop SAP ABAP applications
-- Build custom reports and solutions
-- Work with SAP S/4HANA
-- Analyze business requirements
-- Solve technical problems
-- Work with SAP business processes
-- Integrate business processes with SAP solutions
-- Continuously improve code quality and performance
+---
 
-## 🎯 MY GOAL
+## About Me
 
-To become a professional SAP ABAP Consultant who combines
-**technical expertise with strong business-process understanding**
-to deliver scalable and efficient SAP solutions.
+- SAP ABAP development
+- Custom reports and business solutions
+- SAP S/4HANA development
+- Business requirements analysis
+- Problem solving and debugging
+- Business process integration
+- Code quality and performance improvement
 
-## 🧠 MOTTO
+---
 
-> "When your work speaks for itself, don't interrupt."
+## Current Focus
 
-— Henry J. Kaiser
+I'm continuously developing my skills in **SAP ABAP and SAP S/4HANA**, with a
+focus on combining technical development with a strong understanding of
+business processes.
 
-## 📫 CONNECT WITH ME
+My goal is to build SAP solutions that are not only technically sound,
+but also practical and valuable to the business.
+
+---
+
+## Connect
 
 <a href="https://github.com/YoussefSalah22781" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
