@@ -1,23 +1,77 @@
-### Hi! 👋
+#
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+<img src="./banner.png.jpeg" alt="Youssef Salah - SAP ABAP Developer">
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+I'm Youssef Salah, a **SAP ABAP Developer** passionate about building
+efficient, reliable, and business-oriented SAP solutions.
 
-#### TECH STACK
+I'm focused on SAP development, ABAP programming, and understanding
+business processes to create solutions that deliver real business value.
 
-PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
+I have a strong interest in problem solving, continuous learning,
+and developing high-quality SAP applications.
 
-##### MOTTO
+## 🚀 TECH STACK
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+### SAP / ABAP
 
-####
+- SAP ABAP
+- ABAP Reports
+- Internal Tables
+- Data Dictionary
+- Open SQL
+- Modularization
+- ALV Reports
+- Debugging
+- SAP S/4HANA
+- SAP Fiori / SAPUI5
 
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+### SAP Functional Knowledge
+
+- Financial Accounting (FI)
+- Management Accounting (CO)
+- Materials Management (MM)
+- Procurement / Source-to-Pay
+- SAP SuccessFactors
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- SQL
+- REST APIs
+- Eclipse / ADT
+- SAP GUI
+
+## 💡 WHAT I DO
+
+- Develop SAP ABAP applications
+- Build custom reports and solutions
+- Work with SAP S/4HANA
+- Analyze business requirements
+- Solve technical problems
+- Work with SAP business processes
+- Integrate business processes with SAP solutions
+- Continuously improve code quality and performance
+
+## 🎯 MY GOAL
+
+To become a professional SAP ABAP Consultant who combines
+**technical expertise with strong business-process understanding**
+to deliver scalable and efficient SAP solutions.
+
+## 🧠 MOTTO
+
+> "When your work speaks for itself, don't interrupt."
+
+— Henry J. Kaiser
+
+## 📫 CONNECT WITH ME
+
+<a href="https://github.com/YoussefSalah22781" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
